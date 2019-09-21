@@ -6,6 +6,7 @@
   3. bosh-deployment download 후 설치 : https://github.com/cloudfoundry/bosh-deployment
   4. Stemcell download : https://bosh.cloudfoundry.org/stemcells
   5. cf-deployment download 후 설치 : https://github.com/cloudfoundry/cf-deployment
+  6. cf cli 설치 : https://docs.cloudfoundry.org/cf-cli/install-go-cli.html, https://github.com/cloudfoundry/cli/blob/master/README.md#downloads
   6. 원하는 서비스 설치 : https://www.cloudfoundry.org
   
 ## Download 스크립트
