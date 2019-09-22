@@ -20,3 +20,8 @@
 
 ## deploy_cf 스크립트
 * cloudfoundry 설치 스크립트
+
+## Open Source 화면
+* stratos 화면설치 다운: https://github.com/cloudfoundry-incubator/stratos
+* 가이드: https://github.com/cloudfoundry-incubator/stratos/tree/v2-master/deploy/cloud-foundry
+
