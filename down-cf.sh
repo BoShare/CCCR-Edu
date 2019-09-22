@@ -7,11 +7,11 @@ git clone https://github.com/cloudfoundry/bosh-deployment ~/workspace/bosh-deplo
 git clone https://github.com/cloudfoundry/bosh-deployment ~/workspace/cf-deployment
 
 # Env file store in the vbox
-mkdir -p ~/deployments/vbox
+mkdir -p ~/workspace/deployments/vbox
 
 # Setting the bosh-lite-env.sh & deploy_cf.sh 
-@ ~/deployments/bosh-lite-env.sh
-@ ~/deployments/deploy_cf.sh
+@ ~/workspace/deployments/bosh-lite-env.sh
+@ ~/workspace/deployments/deploy_cf.sh
 
 git clone https://github.com/BoShare/CCCR-Edu
 
